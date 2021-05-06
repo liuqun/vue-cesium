@@ -52,6 +52,8 @@ class TiandituImageryProvider {
         case 'vec_c':
         case 'cva_w':
         case 'cva_c':
+        case 'ibo_w':
+        case 'ibo_c':
           TiandituMapsStyleLabels[TiandituMapsStyle[key]] = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19']
           break
         case 'ter_w':
